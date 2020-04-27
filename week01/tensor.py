@@ -51,7 +51,8 @@ if flag:
     t = torch.zeros((3,3) , out = out_t)
     print(t,'\n',out_t)
     print(id(t),id(out_t),id(t)==id(out_t))'''
-
+'''
+exercise 4
 flag = True
 
 if flag:
@@ -64,4 +65,30 @@ if flag:
     # logspace
     print(torch.logspace(10,100,5,10))
     # eye
-    print(torch.eye(5))
+    print(torch.eye(5))'''
+
+flag = True
+
+if flag:
+    # mean为张量,std为张量
+    mean = torch.tensor([1,2,3],dtype=float)
+    print('mean:',mean)
+    std = torch.tensor([4,5,6],dtype=float)
+    print('std:',std)
+    print(torch.normal(mean,std))
+    # mean为张量，std为标量
+    std = 1
+    print('mean:', mean)
+    print('std:',std)
+    print(torch.normal(mean, std))
+    # mean为标量，std为张量
+    std = torch.tensor([4, 5, 6], dtype=float)
+    mean = 0
+    print('mean:', mean)
+    print('std:',std)
+    print(torch.normal(mean, std))
+    # mean为标量，std为标量
+    std = 1
+    print('mean:', mean)
+    print('std:',std)
+    print(torch.normal(mean, std,(3,3)))
