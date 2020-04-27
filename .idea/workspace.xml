@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98aaaaf8-1407-4c81-9e60-5e74792abe23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week01/week1 Tensor.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week01/tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/week01/tensor.py" afterDir="false" />
     </list>
@@ -58,6 +56,28 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.tensor">
+    <configuration name="hello pytorch (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hello pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week01/hello pytorch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello pytorch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hello pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +125,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.tensor" />
+        <item itemvalue="Python.hello pytorch (1)" />
         <item itemvalue="Python.hello pytorch" />
       </list>
     </recent_temporary>
@@ -119,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587970087965</updated>
-      <workItem from="1587970109340" duration="5680000" />
+      <workItem from="1587970109340" duration="6567000" />
     </task>
     <servers />
   </component>
@@ -130,22 +151,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1481" height="196" key="GridCell.Tab.0.bottom" timestamp="1587977543540">
+    <state width="1481" height="241" key="GridCell.Tab.0.bottom" timestamp="1587978700370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587977543540" />
-    <state width="1481" height="196" key="GridCell.Tab.0.center" timestamp="1587977543540">
+    <state width="1481" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587978700370" />
+    <state width="1481" height="241" key="GridCell.Tab.0.center" timestamp="1587978700370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587977543540" />
-    <state width="1481" height="196" key="GridCell.Tab.0.left" timestamp="1587977543540">
+    <state width="1481" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587978700370" />
+    <state width="1481" height="241" key="GridCell.Tab.0.left" timestamp="1587978700370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587977543540" />
-    <state width="1481" height="196" key="GridCell.Tab.0.right" timestamp="1587977543540">
+    <state width="1481" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587978700370" />
+    <state width="1481" height="241" key="GridCell.Tab.0.right" timestamp="1587978700370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587977543540" />
+    <state width="1481" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587978700370" />
     <state x="306" y="0" key="SettingsEditor" timestamp="1587971030684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -157,6 +178,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hello_pytorch$hello_pytorch.coverage" NAME="hello pytorch Coverage Results" MODIFIED="1587973405893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hello_pytorch$tensor.coverage" NAME="tensor Coverage Results" MODIFIED="1587977543533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01" />
+    <SUITE FILE_PATH="coverage/hello_pytorch$tensor.coverage" NAME="tensor Coverage Results" MODIFIED="1587978607423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01" />
+    <SUITE FILE_PATH="coverage/hello_pytorch$hello_pytorch__1_.coverage" NAME="hello pytorch (1) Coverage Results" MODIFIED="1587978396902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week01" />
   </component>
 </project>
