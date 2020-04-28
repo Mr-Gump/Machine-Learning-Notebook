@@ -1,2 +1,2 @@
-# Pytorch
-记录Pytorch学习过程,每天更新
+# 机器学习，深度学习，Pytorch
+记录机器学习，深度学习，Pytorch学习过程,每天更新
