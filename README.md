@@ -28,3 +28,9 @@
    + 吴恩达<<机器学习>> 多变量线性回归,逻辑回归
    + Overfitting , Regularization
    + 增加了机器学习术语(中英对照)
+## week02
++ Day1
+   + Pytorch数据读取--DataLoader Dataset
+   + 更新了一些词汇
+   + 尝试弄清楚Pytorch数据读取的架构
+   + 上传了人民币图像二分类代码
