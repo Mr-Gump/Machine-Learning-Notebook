@@ -45,3 +45,7 @@
 + Day4
    + 图像transform的22种方法的一部分(notebook效果图)
    + 增加了机器学习术语
++ Day5
+   + 图像transform的22种方法(剩下部分)
+   + 通过对图像transform提高识别率(修改人民币二分类模型)
+   + transform的核心是增加模型的泛化能力
