@@ -49,3 +49,5 @@
    + 图像transform的22种方法(剩下部分)
    + 通过对图像transform提高识别率(修改人民币二分类模型)
    + transform的核心是增加模型的泛化能力
++  Day6
+   + 补充了Numpy Pandas的用法笔记
