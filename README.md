@@ -53,3 +53,9 @@
    + 补充了Numpy的用法笔记
 + Day7
    + 补充了Pandas的用法笔记
+## week03
++ Day1
+   + Pytorch nn.Module 模型构建初步了解
+   + Neutral Network 损失函数
+   + Neutral Network  构建步骤
+   + 增加了机器学习术语
