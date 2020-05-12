@@ -59,3 +59,6 @@
    + Neutral Network 损失函数
    + Neutral Network  构建步骤
    + 增加了机器学习术语
++ Day2
+   + Contains 模型的拼接
+   + 进一步理解模型的构建和拼接
