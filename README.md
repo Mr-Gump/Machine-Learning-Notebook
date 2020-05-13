@@ -62,3 +62,6 @@
 + Day2
    + Contains 模型的拼接
    + 进一步理解模型的构建和拼接
++ Day3
+   + Matplotlib 模块的补充
+   + 完成Logistic Regression Exercise
