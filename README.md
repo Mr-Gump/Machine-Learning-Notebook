@@ -65,3 +65,6 @@
 + Day3
    + Matplotlib 模块的补充
    + 完成Logistic Regression Exercise
++ Day4
+   + 卷积,池化,全连接层的初步认识
+   + 增加了机器学习术语
