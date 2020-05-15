@@ -26,8 +26,8 @@ img_tensor.unsqueeze_(dim=0)    # C*H*W to B*C*H*W
 # ================================= create convolution layer ==================================
 
 # ================ 2d
-# flag = 1
-flag = 0
+flag = 1
+# flag = 0
 if flag:
     conv_layer = nn.Conv2d(3, 1, 3)   # input:(i, o, size) weights:(o, i , h, w)
     nn.init.xavier_normal_(conv_layer.weight.data)
@@ -36,8 +36,8 @@ if flag:
     img_conv = conv_layer(img_tensor)
 
 # ================ transposed
-flag = 1
-# flag = 0
+# flag = 1
+flag = 0
 if flag:
     conv_layer = nn.ConvTranspose2d(3, 1, 3, stride=2)   # input:(i, o, size)
     nn.init.xavier_normal_(conv_layer.weight.data)
