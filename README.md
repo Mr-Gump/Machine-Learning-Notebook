@@ -103,3 +103,6 @@
 + Day1
    + Pytorch 学习率调整
    + 吴恩达<<机器学习>> Kernel Function (未看完)
++ Day2
+   + tensorboard 安装和使用
+   + tensorboard --logdir=./runs
