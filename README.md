@@ -106,3 +106,6 @@
 + Day2
    + tensorboard 安装和使用
    + tensorboard --logdir=./runs
++ Day3
+   + 吴恩达<<机器学习>> SVM
+   + 更新了一些术语
