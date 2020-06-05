@@ -113,3 +113,8 @@
    + TensorBoard 显示图像,直方图,计算图
 + Day5
    + Pytorch Hook函数
+## week06
++ Day1
+   + Pytorch正则化的两种方法
+   + 更新了一些术语
+# 抱歉,作者疲于应付考试,停更一段时间
